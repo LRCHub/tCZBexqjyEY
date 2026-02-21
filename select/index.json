@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Stay Gold",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2026-02-21T08:59:10.245744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Camille Jones",
+      "has_synced": false,
+      "path": "select/01_Stay_Gold_Camille_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/02_Stay_Gold_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Hater",
+      "has_synced": false,
+      "path": "select/03_Stay_Gold_Hater.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "PVRIS",
+      "has_synced": true,
+      "path": "select/04_Stay_Gold_PVRIS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/05_Stay_Gold_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay Gold - From \"The Outsiders\" Soundtrack",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/06_Stay_Gold_-_From__The_Outsiders__Soundtrack_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/07_Stay_Gold_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay Gold, Ponyboy",
+      "artist": "The Get Up Kids",
+      "has_synced": true,
+      "path": "select/08_Stay_Gold,_Ponyboy_The_Get_Up_Kids.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/09_Stay_Gold_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Run The Jewels",
+      "has_synced": true,
+      "path": "select/10_Stay_Gold_Run_The_Jewels.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "Black Pumas",
+      "has_synced": true,
+      "path": "select/11_Stay_Gold_Black_Pumas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay Gold - Live from Capitol Studio A",
+      "artist": "Black Pumas",
+      "has_synced": true,
+      "path": "select/12_Stay_Gold_-_Live_from_Capitol_Studio_A_Black_Pumas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay Gold",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/13_Stay_Gold_BTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay Gold [MusicBaran]",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/14_Stay_Gold_[MusicBaran]_BTS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stay Gold (from “The Outsiders” soundtrack)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/15_Stay_Gold_(from_“The_Outsiders”_soundtrack)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay Gold",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_Gold_宇多田_ヒカル.txt"
+    }
+  ]
+}
